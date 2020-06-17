@@ -1,6 +1,7 @@
 This is a text file containing all members of this class with their names in alphabetical order by last name.
 
 Every member should clone this repo, create a branch, add their name, commit, open a pull request, and get their code merged in.
+<<<<<<< HEAD
 
 1. Chris Castaneda
 2. Ryan Clayton
@@ -12,3 +13,15 @@ Every member should clone this repo, create a branch, add their name, commit, op
 8. Bukadiri Trawally
 9. James Walls
 10. Michel Charles
+=======
+1. Michel Charles
+2. Ryan Clayton
+3. Mitch Goshorn
+4. Jackson Hopkins
+5. Jerry Pujals
+6. Ken Renelt
+7. Keith Salzman
+8. Hugh Thornhill
+9. Bukadiri Trawally
+10. James Walls
+>>>>>>> 4878c0fa67de43606c004b7664248909d60a3900
