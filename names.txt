@@ -2,13 +2,14 @@ This is a text file containing all members of this class with their names in alp
 
 Every member should clone this repo, create a branch, add their name, commit, open a pull request, and get their code merged in.
 
-1. Mitch Goshorn
-2. Chris Castaneda
-3. Michel Charles
-4. Ryan Clayton
-5. Mitch Goshorn
-6. Jordon Hill
-7. Jackson Hopkins
+
+1. Chris Castaneda
+2. Michel Charles
+3. Ryan Clayton
+4. Mitch Goshorn
+5. Jordon Hill
+6. Jackson Hopkins
+7. Yurrian Pierre-Boyer
 8. Natasha Poser
 9. Jerry Pujals
 10. Ken Renelt
@@ -19,5 +20,8 @@ Every member should clone this repo, create a branch, add their name, commit, op
 15. James Walls
 
 
+
+
 20. Pongnatee Wongthaweesap
+
 
