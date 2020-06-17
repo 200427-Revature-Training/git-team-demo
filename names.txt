@@ -3,3 +3,4 @@ This is a text file containing all members of this class with their names in alp
 Every member should clone this repo, create a branch, add their name, commit, open a pull request, and get their code merged in.
 
 1. Mitch Goshorn
+2. Pujals Jerry
