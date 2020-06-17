@@ -22,8 +22,3 @@ Every member should clone this repo, create a branch, add their name, commit, op
 
 
 20. Pongnatee Wongthaweesap
-
-
-
-
-testing
