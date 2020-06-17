@@ -9,4 +9,5 @@ Every member should clone this repo, create a branch, add their name, commit, op
 5. Hugh Thornhill
 6. Bukadiri Trawally
 7. James Walls
-8. Milton Reyes
+8. Michel Charles
+9. Milton Reyes
