@@ -6,4 +6,5 @@ Every member should clone this repo, create a branch, add their name, commit, op
 2. Mitch Goshorn
 3. Jerry Pujals
 4. Ken Renelt
-5. James Walls
+5. Hugh Thornhill
+6. James Walls
