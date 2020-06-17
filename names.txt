@@ -4,4 +4,7 @@ Every member should clone this repo, create a branch, add their name, commit, op
 
 1. Mitch Goshorn
 
-18. Hugh Thornhill
+2. Ken Renelt
+3. James Walls
+4. Pujals Jerry
+5. Hugh Thornhill
