@@ -1,16 +1,13 @@
 This is a text file containing all members of this class with their names in alphabetical order by last name.
 
 Every member should clone this repo, create a branch, add their name, commit, open a pull request, and get their code merged in.
-
 1. Michel Charles
 2. Ryan Clayton
 3. Mitch Goshorn
-4. Jordon Hill
-5. Jackson Hopkins
-6. Jerry Pujals
-7. Ken Renelt
-8. Milton Reyes
-9. Keith Salzman
-10. Hugh Thornhill
-11. Bukadiri Trawally
-12. James Walls
+4. Ezan Kodjo
+5. Jerry Pujals
+6. Ken Renelt
+7. Keith Salzman
+8. Hugh Thornhill
+9. Bukadiri Trawally
+10.James Walls
