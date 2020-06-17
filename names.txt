@@ -7,10 +7,15 @@ Every member should clone this repo, create a branch, add their name, commit, op
 3. Mitch Goshorn
 4. Jordon Hill
 5. Jackson Hopkins
-6. Jerry Pujals
-7. Ken Renelt
-8. Milton Reyes
-9. Keith Salzman
-10. Hugh Thornhill
-11. Bukadiri Trawally
+6. Natasha Poser
+7. Jerry Pujals
+8. Ken Renelt
+9. Milton Reyes
+10. Keith Salzman
+11. Hugh Thornhill
+12. Bukadiri Trawally
+<<<<<<< HEAD
 12. James Walls
+=======
+12. James Walls
+>>>>>>> b3bccb8837cceee99b8809e3cf421a5f2845423f
