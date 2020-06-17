@@ -8,7 +8,8 @@ Every member should clone this repo, create a branch, add their name, commit, op
 4. Jackson Hopkins
 5. Jerry Pujals
 6. Ken Renelt
-7. Keith Salzman
-8. Hugh Thornhill
-9. Bukadiri Trawally
-10. James Walls
+7. Milton Reyes
+8. Keith Salzman
+9. Hugh Thornhill
+10. Bukadiri Trawally
+11. James Walls
