@@ -5,3 +5,5 @@ Every member should clone this repo, create a branch, add their name, commit, op
 1. Ryan Clayton
 2. Mitch Goshorn
 3. Ken Renelt
+4. James Walls
+5. Pujals Jerry
