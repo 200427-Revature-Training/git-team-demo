@@ -4,10 +4,10 @@ Every member should clone this repo, create a branch, add their name, commit, op
 1. Michel Charles
 2. Ryan Clayton
 3. Mitch Goshorn
-5. Jackson Hopkins
-6. Jerry Pujals
-7. Ken Renelt
-8. Keith Salzman
-9. Hugh Thornhill
-10. Bukadiri Trawally
-11.. James Walls
+4. Jackson Hopkins
+5. Jerry Pujals
+6. Ken Renelt
+7. Keith Salzman
+8. Hugh Thornhill
+9. Bukadiri Trawally
+10. James Walls
