@@ -11,16 +11,18 @@ Every member should clone this repo, create a branch, add their name, commit, op
 5. Mitch Goshorn
 6. Jordon Hill
 7. Jackson Hopkins
-8. Evan Liebhauser
-9. Yurrian Pierre-Boyer
-10. Natasha Poser
-11. Jerry Pujals
-12. Ken Renelt
-13. Milton Reyes
-14. Kenneth Salzman
-15. Hugh Thornhill
-16. Bukadiri Trawally
-17. James Walls
+8. Ezan Kodjo
+9. Evan Liebhauser
+10. Yurrian Pierre-Boyer
+11. Natasha Poser
+12. Jerry Pujals
+13. Ken Renelt
+14. Milton Reyes
+15. Kenneth Salzman
+16. Hugh Thornhill
+17. Bukadiri Trawally
+18. James Walls
+
 
 
 20. Pongnatee Wongthaweesap
