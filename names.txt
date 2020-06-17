@@ -6,3 +6,4 @@ Every member should clone this repo, create a branch, add their name, commit, op
 2. Ken Renelt
 3. James Walls
 4. Pujals Jerry
+5. Milton Reyes
