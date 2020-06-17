@@ -1,27 +1,14 @@
 This is a text file containing all members of this class with their names in alphabetical order by last name.
 
 Every member should clone this repo, create a branch, add their name, commit, open a pull request, and get their code merged in.
-<<<<<<< HEAD
-
-1. Ryan Clayton
-2. Mitch Goshorn
-3. Natasha Poser
-4. Jerry Pujals
-5. Ken Renelt
-6. Hugh Thornhill
-7. Bukadiri Trawally
-8. James Walls
-9. Michel Charles
-=======
 1. Michel Charles
 2. Ryan Clayton
 3. Mitch Goshorn
 5. Jackson Hopkins
-6. Natasha
+6. Natasha Poser
 8. Jerry Pujals
 9. Ken Renelt
 10. Keith Salzman
 11. Hugh Thornhill
 12. Bukadiri Trawally
 13.. James Walls
->>>>>>> a8b0341f044f2c3668d4e214ff2bc6563c04c256
