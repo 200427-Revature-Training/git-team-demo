@@ -11,5 +11,3 @@ export function stringConcat(a: string, b: string) {
 export function myFunction(a: number, b: number) {
     return a + b;
 }
-
-
