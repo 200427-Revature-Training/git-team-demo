@@ -5,20 +5,21 @@ Every member should clone this repo, create a branch, add their name, commit, op
 
 1. Mitch Goshorn
 2. Chris Castaneda
-3. Michel Charles
-4. Ryan Clayton
-5. Mitch Goshorn
-6. Jordon Hill
-7. Jackson Hopkins
-8. Evan Liebhauser
-9. Natasha Poser
-10. Jerry Pujals
-11. Ken Renelt
-12. Milton Reyes
-13. Kenneth Salzman
-14. Hugh Thornhill
-15. Bukadiri Trawally
-16. James Walls
+3. Jared Chase
+4. Michel Charles
+5. Ryan Clayton
+6. Mitch Goshorn
+7. Jordon Hill
+8. Jackson Hopkins
+9. Evan Liebhauser
+10. Natasha Poser
+11. Jerry Pujals
+12. Ken Renelt
+13. Milton Reyes
+14. Kenneth Salzman
+15. Hugh Thornhill
+16. Bukadiri Trawally
+17. James Walls
 
 
 
