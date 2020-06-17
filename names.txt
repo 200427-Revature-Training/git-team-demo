@@ -2,8 +2,12 @@ This is a text file containing all members of this class with their names in alp
 
 Every member should clone this repo, create a branch, add their name, commit, open a pull request, and get their code merged in.
 
-1. Mitch Goshorn
-2. Ken Renelt
-3. James Walls
-4. Pujals Jerry
-6. Jordon Hill
+1. Ryan Clayton
+2. Mitch Goshorn
+3. Jordon Hill
+4. Jerry Pujals
+5. Ken Renelt
+6. Hugh Thornhill
+7. Bukadiri Trawally
+8. James Walls
+9. Michel Charles
